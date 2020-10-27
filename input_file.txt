@@ -1,0 +1,8 @@
+int x y tmp;
+begin
+    read(x)
+    read(y)
+    if x > y tmp = x; x = y; y = tmp
+    while x % y != 0 do x = x + 1
+    write(x)
+end
