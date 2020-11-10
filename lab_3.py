@@ -1,4 +1,6 @@
 """
+git: https://github.com/mirceachira/flcd_class/blob/main/lab_3.py
+
 BNF Representation of the input file:
 
 symbol := 0 | 1 | 2 | ... | 9
